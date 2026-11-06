@@ -2,7 +2,7 @@
   "id": "gymcountdown",
   "name": "Countdown",
   "shortName": "Countdown",
-  "version": "0.02",
+  "version": "0.01",
   "author": "meneluth",
   "description": "Quick countdown timers for gym rest periods. 20s, 30s, 60s, 90s.",
   "icon": "app.png",
@@ -14,7 +14,7 @@
   "storage": [
     {
       "name": "gymcountdown.app.js",
-      "url": "appnew.js"
+      "url": "app.js"
     },
     {
       "name": "gymcountdown.img",
